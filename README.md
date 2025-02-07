@@ -1,4 +1,4 @@
-<h1 align="center" style="color: cyan; text-shadow: 0px 0px 10px cyan;">Hi 👋, I'm Rofaida</h1>
+<h1 align="center" style="color: cyan; text-shadow: 0px 0px 10px cyan; animation: glow 1.5s infinite alternate;">Hi 👋, I'm Rofaida</h1>
 <h3 align="center" style="color: lime; text-shadow: 0px 0px 10px lime;">🚀 Junior Web Developer | Front-End Enthusiast</h3>
 
 <p align="center">
@@ -55,9 +55,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofaida57&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rofaida57/rofaida57/main/assets/developer.gif" width="250" height="200" alt="Developer Animation" />
+</p>
+
 <style>
   body { background-color: #0d1117; color: white; font-family: Arial, sans-serif; }
   a:hover { text-shadow: 0px 0px 10px white; }
+  @keyframes glow {
+    from { text-shadow: 0px 0px 5px cyan; }
+    to { text-shadow: 0px 0px 20px cyan; }
+  }
 </style>
+
 
 
