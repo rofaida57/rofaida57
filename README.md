@@ -11,11 +11,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
+
 
 <h3 align="center">💡 Connect with me:</h3>
 <p align="center">
@@ -55,18 +51,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofaida57&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rofaida57/rofaida57/main/assets/developer.gif" width="250" height="200" alt="Developer Animation" />
-</p>
 
-<style>
-  body { background-color: #0d1117; color: white; font-family: Arial, sans-serif; }
-  a:hover { text-shadow: 0px 0px 10px white; }
-  @keyframes glow {
-    from { text-shadow: 0px 0px 5px cyan; }
-    to { text-shadow: 0px 0px 20px cyan; }
-  }
-</style>
+
+
 
 
 
