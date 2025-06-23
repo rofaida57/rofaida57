@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Amatic+SC&size=45&duration=3000&color=F7D900&center=true&vCenter=true&lines=👋+Hi+I'm+Rofaida;Junior+Front-End+Web+Developer;Welcome+To+My+World+💻" alt="Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Amatic+SC&size=45&duration=3000&color=F7D900&center=true&vCenter=true&lines=👋+Hi+I'm+R_JS;Junior+Front-End+Web+Developer;Welcome+To+My+World+💻" alt="Typing effect" />
 </h1>
 
 <p align="center">
@@ -13,16 +13,6 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rofaida57&theme=dark&title=Stars,Commit,Issues,PullRequest,Repositories&no-bg=true&no-frame=true&title_color=FFD700&color=white" alt="rofaida57" />
-</p>
-
----
-
-### 🤝 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/marco." target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
 </p>
 
 ---
@@ -56,13 +46,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofaida57" alt="GitHub Streak" />
 </p>
-
----
-
-### 🌟 Daily Inspiration
-
-> "Start small, dream big, and never stop learning."  
-> – Every line of code brings you closer to your goals 🚀
 
 ---
 
