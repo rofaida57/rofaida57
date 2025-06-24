@@ -10,13 +10,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rofaida57&theme=dark&title=Stars,Commit,Issues,PullRequest,Repositories&no-bg=true&no-frame=true&title_color=FFD700&color=white" alt="rofaida57" />
-</p>
-
----
-
 ### 💻 Languages and Tools
 
 <p align="center">
@@ -43,9 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rofaida57&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofaida57" alt="GitHub Streak" />
-</p>
 
 ---
 
