@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=3000&color=9D4EDD&center=true&vCenter=true&lines=✨+Hi+I'm+R-PRO+✨;Full+Stack+Developer+🌸;Welcome+To+My+Creative+Space+🦋" alt="Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=✨+Hi+I'm+R-PRO+✨;Full+Stack+Developer+🌸;Welcome+To+My+Creative+Space+🦋" alt="Typing effect" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </p>
 
 <h3 align="center">🌟 Passionate Developer | Creating Beautiful Web Experiences ✨</h3>
@@ -131,10 +131,10 @@ const R_PRO = {
 
 ---
 
-## 💜 Top Languages
+## 💜 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofaida57&layout=compact&theme=radical&hide_border=true&bg_color=f5f0ff&title_color=9d4edd&text_color=5a189a&icon_color=7209b7" alt="Top Languages" />
+  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofaida57&layout=compact&theme=material-palenight&hide_border=true&bg_color=f5f0ff&title_color=9d4edd&text_color=5a189a&langs_count=8&card_width=600" alt="Top Languages" />
 </p>
 
 <div align="center">
